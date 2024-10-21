@@ -1,0 +1,38 @@
+.btn {
+    background-color: red;
+    transition: all 0.5s ease-in-out;
+}
+
+.btn:hover {
+    background-color: blue;
+    padding: 15px 25px;
+}
+
+h1 {
+    color: yellow;
+    text-shadow: 0px 0px 15px black;
+    text-decoration: underline solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.subtitle1 {
+    background-color: rgba(255, 68, 0, 0.614);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border-radius: 10px;
+}
+
+.subtitle2 {
+    background-color: rgba(2, 96, 2, 0.795);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    width: 300px;
+    margin-top: 20px;
+    filter: drop-shadow(0px 0px 1px white);
+}
+
